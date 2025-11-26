@@ -33,7 +33,7 @@ Previously, I completed an MSc in Computer Vision at **MBZUAI (Mohamed bin Zayed
 - Multimodal imaging + transcriptomic biomarkers for inflammatory disease assessment  
 
 For a complete list:  
-➡️ **Google Scholar:** https://scholar.google.com/citations?user=dUaDtAIAAAAJ
+➡️ [**Google Scholar**](https://scholar.google.com/citations?user=dUaDtAIAAAAJ)   
 
 ---
 
