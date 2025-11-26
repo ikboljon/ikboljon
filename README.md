@@ -1,6 +1,6 @@
 # Ikboljon Sobirov
 
-**AI Scientist | PhD Candidate, University of Oxford **
+**AI Scientist | PhD Candidate, University of Oxford**
 
 Welcome to my personal GitHub space. I work on machine learning for medical imaging, with a special focus on cardiovascular medicine and radiotranscriptomic biomarkers.
 
